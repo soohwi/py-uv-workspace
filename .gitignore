@@ -278,3 +278,7 @@ Temporary Items
 
 # 소스파일 깃 커밋 무시
 source_skn/
+
+.claude/
+.agents/
+*.keras
