@@ -275,3 +275,6 @@ Temporary Items
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode
+
+# 소스파일 깃 커밋 무시
+source_skn/
